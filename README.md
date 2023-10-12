@@ -15,8 +15,16 @@ Pada kali ini saya mengambil tema Penyuratan Akademik untuk mengelola terkait su
    > Pada project rill ini terdapat dua package yaitu posttest2.main dan posttest2.surat. hal ini tentunya sejalan dengan ketentuan ketiga yaitu package posttest2.main adalah package utama dan posttest2.surat adalah package yang baru dibuat.
 
 3. setiap entitas harus memiliki kelas
-4. access modifier, setter dan getter
-5. ArrayList
-6. Final Class
-7. Final Property
-8. Final Method
+   > pada entitas posttest2.main
+   >
+   > <img width="101" alt="Screenshot 2023-10-12 220830" src="https://github.com/AmaliaKartika013/Posttest2_PBO/assets/147727344/85082525-5744-4753-b51a-8d4ac53b6271">
+
+   > pada entitas posttest2.surat
+   >
+   > <img width="114" alt="Screenshot 2023-10-12 220917" src="https://github.com/AmaliaKartika013/Posttest2_PBO/assets/147727344/0128c442-4de8-46be-bba1-87393475de11">
+
+5. access modifier, setter dan getter
+6. ArrayList
+7. Final Class
+8. Final Property
+9. Final Method
