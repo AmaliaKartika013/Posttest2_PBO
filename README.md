@@ -9,9 +9,14 @@ Pada kali ini saya mengambil tema Penyuratan Akademik untuk mengelola terkait su
 
 ## SS Ketentuan
 1. membuat minimal 2 Package
-2. setiap entitas harus memiliki kelas
-3. access modifier, setter dan getter
-4. ArrayList
-5. Final Class
-6. Final Property
-7. Final Method
+   >
+   <img width="120" alt="Screenshot 2023-10-12 215444" src="https://github.com/AmaliaKartika013/Posttest2_PBO/assets/147727344/1570fb53-15a4-4e5e-a1b6-ace0b1bf2347">
+   
+   > Pada project rill ini terdapat dua package yaitu posttest2.main dan posttest2.surat. hal ini tentunya sejalan dengan ketentuan ketiga yaitu package posttest2.main adalah package utama dan posttest2.surat adalah package yang baru dibuat.
+
+3. setiap entitas harus memiliki kelas
+4. access modifier, setter dan getter
+5. ArrayList
+6. Final Class
+7. Final Property
+8. Final Method
